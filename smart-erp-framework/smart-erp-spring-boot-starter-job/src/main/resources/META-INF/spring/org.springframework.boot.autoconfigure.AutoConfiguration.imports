@@ -1,0 +1,2 @@
+com.smart.erp.framework.quartz.config.SmartErpQuartzAutoConfiguration
+com.smart.erp.framework.quartz.config.SmartErpAsyncAutoConfiguration

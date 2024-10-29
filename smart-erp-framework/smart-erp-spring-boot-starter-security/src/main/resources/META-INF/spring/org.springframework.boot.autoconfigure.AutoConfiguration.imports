@@ -1,0 +1,3 @@
+com.smart.erp.framework.security.config.SmartErpSecurityAutoConfiguration
+com.smart.erp.framework.security.config.SmartErpWebSecurityConfigurerAdapter
+com.smart.erp.framework.operatelog.config.SmartErpOperateLogConfiguration

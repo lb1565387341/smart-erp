@@ -1,0 +1,2 @@
+com.smart.erp.framework.redis.config.SmartErpRedisAutoConfiguration
+com.smart.erp.framework.redis.config.SmartErpCacheAutoConfiguration

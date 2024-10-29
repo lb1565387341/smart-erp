@@ -1,0 +1,2 @@
+com.smart.erp.framework.tracer.config.SmartErpTracerAutoConfiguration
+com.smart.erp.framework.tracer.config.SmartErpMetricsAutoConfiguration

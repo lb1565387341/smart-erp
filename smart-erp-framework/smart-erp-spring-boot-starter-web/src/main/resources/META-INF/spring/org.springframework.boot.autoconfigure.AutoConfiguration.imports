@@ -1,0 +1,6 @@
+com.smart.erp.framework.apilog.config.SmartErpApiLogAutoConfiguration
+com.smart.erp.framework.jackson.config.SmartErpJacksonAutoConfiguration
+com.smart.erp.framework.swagger.config.SmartErpSwaggerAutoConfiguration
+com.smart.erp.framework.web.config.SmartErpWebAutoConfiguration
+com.smart.erp.framework.xss.config.SmartErpXssAutoConfiguration
+com.smart.erp.framework.banner.config.SmartErpBannerAutoConfiguration

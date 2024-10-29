@@ -1,0 +1,4 @@
+com.smart.erp.framework.idempotent.config.SmartErpIdempotentConfiguration
+com.smart.erp.framework.lock4j.config.SmartErpLock4jConfiguration
+com.smart.erp.framework.ratelimiter.config.SmartErpRateLimiterConfiguration
+com.smart.erp.framework.signature.config.SmartErpApiSignatureAutoConfiguration

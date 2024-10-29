@@ -1,0 +1,3 @@
+com.smart.erp.framework.datasource.config.SmartErpDataSourceAutoConfiguration
+com.smart.erp.framework.mybatis.config.SmartErpMybatisAutoConfiguration
+com.smart.erp.framework.translate.config.SmartErpTranslateAutoConfiguration

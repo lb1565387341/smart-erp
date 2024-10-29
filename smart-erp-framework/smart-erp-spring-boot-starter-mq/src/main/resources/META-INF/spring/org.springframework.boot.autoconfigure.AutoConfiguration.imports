@@ -1,0 +1,3 @@
+com.smart.erp.framework.mq.redis.config.SmartErpRedisMQProducerAutoConfiguration
+com.smart.erp.framework.mq.redis.config.SmartErpRedisMQConsumerAutoConfiguration
+com.smart.erp.framework.mq.rabbitmq.config.SmartErpRabbitMQAutoConfiguration
